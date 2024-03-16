@@ -5,7 +5,7 @@
 */
 
 const input = document.getElementById("input-field")
-const convertBtn = document.getElementById("convert-btn")
+const convertBtn = document.querySelector("#convert-btn")
 const lengthHtml = document.getElementById("length-html")
 const volumeHtml = document.getElementById("volume-html")
 const massHtml = document.getElementById("mass-html")
