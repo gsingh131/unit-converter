@@ -6,5 +6,5 @@ Quick start:
 $ npm install
 $ npm start
 ````
-
-https://main--gleeful-blini-eae7fc.netlify.app/
+netlify link: 
+https://main--mellow-snickerdoodle-8f1248.netlify.app/
